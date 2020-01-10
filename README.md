@@ -6,10 +6,10 @@ This is my repo of notes across a bunch of topics I'm learning. I'll add more to
 
 I've been learning Angular! There's a bunch of info to take in.
 
-[Check out my notes](https://seanmccay.github.io/my-notes/angular)
+[Check out my notes](https://seanmccay.github.io/my-notes/angular/overview)
 
 ### JMeter
 
 I'm also looking at JMeter to do some load testing of APIs at work
 
-[Check out my notes](https://seanmccay.github.io/my-notes/jmeter)
+[Check out my notes](https://seanmccay.github.io/my-notes/jmeter/overview)
