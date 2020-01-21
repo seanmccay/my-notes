@@ -1,6 +1,6 @@
 # State Management
 
-There are a bunch of options for managing state in Angular apps including just using services but for apps as large and complex as DataRap two stuck out as real options to me
+There are a bunch of options for managing state in Angular apps including just using services but for large and complex apps, two stuck out as real options to me
 
 -   NgRx (popular, has extensions, implements Redux pattern with observables
     -   Can be pretty verbose but the pattern isn't too complicated
