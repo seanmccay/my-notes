@@ -1,3 +1,5 @@
+[Back to Home](/my-notes)
+
 # Topics
 
 -   [Architecture](/my-notes/angular/architecture-considerations)

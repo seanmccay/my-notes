@@ -1,3 +1,5 @@
+[Back to Home](/my-notes)
+
 # Performance Testing in Azure / JMeter
 
 It looks like using JMeter in an Azure pipeline is definitely possible.
