@@ -1,3 +1,5 @@
+[Back](/my-notes/angular/overview)
+
 # State Management
 
 There are a bunch of options for managing state in Angular apps including just using services but for large and complex apps, two stuck out as real options to me
